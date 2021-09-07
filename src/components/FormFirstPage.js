@@ -50,7 +50,7 @@ const FormFirstPage = props => {
         component={renderField}
         label="Title"
       /><br />
-       <label>Notes</label>
+       <label>Notes *</label>
         <div>
           <Field name="notes" component="textarea" placeholder="Notes" />
         </div>
