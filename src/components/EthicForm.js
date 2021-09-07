@@ -215,3 +215,4 @@ EthicForm = reduxForm({
 })(EthicForm);
 
 export default withStyles(styles, { withTheme: true })(EthicForm);
+
